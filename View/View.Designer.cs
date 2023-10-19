@@ -1,6 +1,6 @@
 ﻿namespace Dernek_Project
 {
-    partial class Form1
+    partial class View
     {
         /// <summary>
         ///Gerekli tasarımcı değişkeni.
