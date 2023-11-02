@@ -1,0 +1,13 @@
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\bin\Debug\Dernek_Project.exe.config
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\bin\Debug\Dernek_Project.exe
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\bin\Debug\Dernek_Project.pdb
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.csproj.AssemblyReference.cache
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.frmDernek.resources
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.frmUyeEkleme.resources
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.Properties.Resources.resources
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.csproj.GenerateResource.cache
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.csproj.CoreCompileInputs.cache
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.exe
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.pdb
+C:\Users\koray\OneDrive\Masaüstü\Dernek_Project\obj\Debug\Dernek_Project.Form1.resources

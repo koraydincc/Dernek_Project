@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Dernek_Project
 {
-    public partial class View : Form
+    public partial class frmDernek : Form
     {
-        public View()
+        public frmDernek()
         {
             InitializeComponent();
         }
